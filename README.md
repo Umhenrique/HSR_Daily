@@ -1,2 +1,10 @@
 # HSR_Daily
-(Ongoing)To-Do List based on Honkai Star Rail Daily Training Quest.
+
+
+EN
+> (Ongoing)To-Do List based on Honkai Star Rail Daily Training Quest.
+> ## Objectives:
+> Study Rest framework and practice Front-End
+----
+PT/BR
+> 
